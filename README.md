@@ -7,3 +7,14 @@ This is a project where I am experimenting with Digital Twin Technology.
 3. [My-Use-Cases](#my-use-cases)
 4. [What-Im-Using-it-for](#what-im-using-it-for)
 5. [References](#references)
+
+## Introduction
+
+## Personal-Research
+
+## My-Use-Cases
+
+## What-Im-Using-it-for
+
+## References
+```
