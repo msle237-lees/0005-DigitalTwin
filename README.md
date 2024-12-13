@@ -3,7 +3,9 @@ This is a project where I am experimenting with Digital Twin Technology.
 
 ## Personal Research
 ### Digital Twin background
-- A Digital Twin of a ny device/system is a working model of all components integrated and mapped together using physical data, virtual data, and interaction between them to make a fully functional replica of the device/system and that too on a digital medium. - geeksforgeeks.org
+- A Digital Twin of any device/system is a working model of all components integrated and mapped together using physical data, virtual data, and interaction between them to make a fully functional replica of the device/system and that too on a digital medium. - geeksforgeeks.org
+- They are typically used to represent large scale machines or factories.
+- My version is just the 3D representation part of the typical package.
 
 ### Data available
 - Possible data suppliers for AUV:
@@ -28,9 +30,7 @@ This is a project where I am experimenting with Digital Twin Technology.
 ### Environment
 - Create docker-compose and dockerfile to containerize the app
 - Using `three.js` for the 3D environment and data vizualization
-- Using python for:
-  - the data parsing and storing of the parsed data
-  - the database and api
+- Using `electron.js` to create the application and handle the database connection
 
 ## What I would like to accomplish for this project:
 1. Create a docker runtime to containerize the app and run on the server in the lab
@@ -40,3 +40,5 @@ This is a project where I am experimenting with Digital Twin Technology.
 
 ## References:
 1. https://www.geeksforgeeks.org/introduction-to-digital-twin/
+2. https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app
+3. 
