@@ -1,2 +1,2 @@
 *.obj filter=lfs diff=lfs merge=lfs -text
-static/models/Full_Assembly.obj filter=lfs diff=lfs merge=lfs -text
+public/models/Full_Assembly.obj filter=lfs diff=lfs merge=lfs -text
